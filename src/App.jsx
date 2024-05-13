@@ -1,7 +1,13 @@
-import "./App.css";
+import WeDontSG from "./Components/WeDontSG";
+import LiveTheExc from "./Components/LiveTheExc";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <WeDontSG />
+      <LiveTheExc />
+    </>
+  );
 }
 
 export default App;
