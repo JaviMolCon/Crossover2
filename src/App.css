@@ -1,0 +1,23 @@
+.BgImg{
+    background-image: url("src/assets/hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+ 
+}
+
+#fb{
+   
+    display: inline-block;
+    position: relative;
+    top: 90%;
+    margin-left: 50px;
+    height: 70px;
+    width: 250px;
+
+}
+
+#fb1{
+
+}
