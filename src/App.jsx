@@ -1,9 +1,10 @@
-import GetBlk from "./Components/GetBlk";
+//import GetBlk from "./Components/GetBlk";
+import FourCards from "./Components/FourCards";
 
 function App() {
   return (
     <>
-      <GetBlk />
+      <FourCards />
     </>
   );
 }
