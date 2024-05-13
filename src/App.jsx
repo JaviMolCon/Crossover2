@@ -1,7 +1,11 @@
-import "./App.css";
+import GetBlk from "./Components/GetBlk";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <GetBlk />
+    </>
+  );
 }
 
 export default App;
