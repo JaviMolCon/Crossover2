@@ -40,7 +40,7 @@ const WeDontSG = () => {
           </div>
           <div className="font-bold text-2xl">
             <ul>
-              <li>✔ Acces to a demo account at no cost</li>
+              <li>✔ Access to a demo account at no cost</li>
               <li>✔ 24/7 technical support</li>
               <li>✔ Trade on any device</li>
               <li>✔ No comissions are charged</li>
